@@ -1,0 +1,88 @@
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 16px;
+  background-size: cover;
+  color: white;
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.3);
+  text-align: center;
+  padding: 20px;
+}
+
+.arrow {
+  height: 80px;
+}
+
+.card-step-one {
+  width: 180px;
+  border-radius: 8px;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.2);
+  padding: 10px 20px;
+  background-color: white;
+  border: 2px solid grey;
+}
+
+.card-step-one img {
+  height: 150px;
+  object-fit: cover;
+}
+
+.card-step-one h2 {
+  margin: 0;
+  color: black;
+}
+
+.card-step-one p {
+  margin: 0;
+  color: black;
+}
+
+.card-step-two {
+  width: 180px;
+  border-radius: 8px;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.2);
+  padding: 10px 20px;
+  background-color: white;
+  border: 2px solid grey;
+}
+
+.card-step-two img {
+  height: 150px;
+  object-fit: cover;
+}
+
+.card-step-two h2 {
+  margin: 0;
+  color: black;
+}
+
+.card-step-two p {
+  margin: 0;
+  color: black;
+}
+
+.card-step-three {
+  width: 180px;
+  border-radius: 8px;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.2);
+  padding: 10px 20px;
+  background-color: white;
+  border: 2px solid grey;
+}
+
+.card-step-three img {
+  height: 150px;
+  object-fit: cover;
+}
+
+.card-step-three h2 {
+  margin: 0;
+  color: black;
+}
+
+.card-step-three p {
+  margin: 0;
+  color: black;
+}
+
